@@ -16,14 +16,16 @@ will show a cow and his say
 
 Build the Docker image:
 ```
-docker build . -t <your username>/cowsay
+$ cd Build
+
+$ docker build . -t <your username>/cowsay
 ```
 
 run the image:
 ```
--docker run <your username>/cowsay
+$ docker run <your username>/cowsay
 ```
 or
 ```
--docker run <your username>/cowsay "Hello World!"
+$ docker run <your username>/cowsay "Hello World!"
 ```
