@@ -1,13 +1,13 @@
 ## Dockerize Shell: app cowsay 
 
-exampel taken from: O'REILLY - using Docker
+example taken from: O'REILLY - using Docker
 
 
-## purpose of the example
+## Purpose of the example
 
 to show Dockerfile functionality (ENTRYPOINT)
 
-## result: 
+## Result: 
 
 will show a cow and his say
 
